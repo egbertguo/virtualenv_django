@@ -1,3 +1,3 @@
 1, add the path to sys : export PYTHONPATH=/home/yourname/virtualenv_django/virtualenv/lib/python2.7/site-packages/
 2, active the virtualenv by run 'source virtualenv/bin/active'
-2, cd /mysite, and run 'python manage.py runserver 0.0.0.0:8000'
+3, cd /mysite, and run 'python manage.py runserver 0.0.0.0:8000'
